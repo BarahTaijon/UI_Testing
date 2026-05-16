@@ -1,0 +1,57 @@
+limitations of manual testing 
+
+1. Re-testing - do the same test case same steps multiple time with different data. challenge: spend a lot of time and effort.
+2. Regression testing - 
+    1. developer build software as group of features build togethers. when the first build is done. as a testers test some test cases some of them may failed so make bug reports to developer. then the next build they fix the bugs and build new features. as a tester verify the fixed bug and the some dependent functionality. 
+    2. to make sure the existing functionality should not be broken because of the changes done by developer.
+    3. done in every cycle 
+
+cycle 1:  TC [ 8 pass, 2 failed] — the 8 is automated 
+
+cycle 2:  the  2 TC failed, tested manually — then the 8 TC again executed because the change happen. if 2 TC pass then automate them.
+
+---
+
+what is selenium ?
+
+- it is not a tool but collection of libraries
+- support only the web based applications.
+- web applications apps can be accessed through browsers.
+- free and open source.
+- selenium is collection of components (IDE, WebDriver, Grid)
+- adv:
+    - free and open source.
+    - multiple operating systems
+    - supports multiple browsers
+    - support multiple languages (java, python, c#, ..)
+    - integrate third party tools in to selenium
+- dis:
+    - cannot support windows based application ( we can integrate another too Autoit, sikuli, Robot API). specially when upload the file.
+    - Reporting not supported. (integrate TestNG, Extent reports).
+    - cannot support excel files (Apache poi)
+    - graphs, captua
+
+
+
+- types of programming languages :
+    - structure — c, Python
+    - object-based — VB, VBScript, Python
+    - object oriented — c++, java, c#, python
+- OOPs means that support
+    - class
+    - object
+    - polymorphism
+    - inheritance
+    - abstraction
+    - encapsulation
+- object-based — class object
+- structure — support nothing
+
+Java is a purely OOP language: that means, without classes, you can’t write code 
+
+---
+
+class created within a package
+
+package created within SRC
+
