@@ -10,8 +10,7 @@ public class Assignment1 {
 		int x = 10 , y = 20;
 		
 		System.out.println("The value of x before swapping is : " +x);
-		System.out.println("The value of y before swapping is : "
-				+ "" +y);
+		System.out.println("The value of y before swapping is : " +y);
 		
 		x = x + y; 
 		
