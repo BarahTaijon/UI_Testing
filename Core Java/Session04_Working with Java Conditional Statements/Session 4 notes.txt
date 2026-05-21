@@ -1,0 +1,66 @@
+
+
+* Control statements: 
+	1. conditional statements
+	2. Looping/iterative statements
+	3. Jumping statements
+
+
+====
+
+
+* Conditional statements
+
+1. if statement
+
+if(cond)
+{
+statements;
+}
+
+
+
+2. if else statement 
+
+if(cond)
+{
+statements;
+}
+else
+{
+statements;
+}
+
+
+3. nested if
+
+if (condition 1)
+{
+}
+else if (condition 2)
+{
+}
+else if (condition 3)
+{
+}
+else
+{
+}
+
+
+4. switch case 
+
+switch(variabel)
+{
+case value1: statements; break;
+case value2: statements; break;
+case value3: statements; break;
+defalut: statements;
+}
+
+====
+
+Assignment 
+1. Use ternary operator the largest value of 2 numbers
+2. find the smallest number
+3. print week number based on week name.  (ex. take Sunday and print 2)
