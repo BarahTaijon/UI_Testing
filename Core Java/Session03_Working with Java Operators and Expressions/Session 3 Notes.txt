@@ -1,0 +1,33 @@
+
+
+* Operators: is a symbol which will perform an operation.
+
+* types of operators:
+
+	1. arithmetic operators + - * / %
+
+	2. Relational/comparison operators  >  ≥  <  ≤  ==  !=
+	   (always returns boolean value)
+
+ 	3. Logical operators && ||  !
+	   (return a boolean value)
+
+	4. Increment & Decrement operator ++  - - 
+	   (increase /decrease by one and only one.)
+
+	5. Assignment operators =  +=  -=  *=  /=  %=
+	   (increase/ decrease value by more than 1)
+
+	6. conditional/ternary operators ?:
+	   ar = exp ? result1 : result2;
+             if [exp is true](?) then result1 else(:) result2
+
+* All type in 3 categories :
+
+- unary operators  ++ - -  (! +-/%* = )
+- binary operators < > ≤ ≥ == && ||
+- ternary operators ?:
+
+
+
+* Assignment 1  - Swapping of 2 numbers without using any temporary variable.
