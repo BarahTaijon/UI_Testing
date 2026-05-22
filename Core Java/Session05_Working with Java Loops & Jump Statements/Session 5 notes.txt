@@ -1,0 +1,73 @@
+
+# Looping/iterative statements
+
+1. while loop
+
+while(condition)
+{
+statments
+inc/dec;
+}
+
+---
+
+2. do.. while loop
+
+do
+{
+statements;
+inc/dec
+}while(condition);
+
+* without condition checking,
+  at least once they can execute the statements in the while loop block.
+
+---
+
+3. For loop
+
+for(initialization; condition; inc/dec)
+{
+statments;
+}
+
+---
+
+which loop is preferred to use?
+
+1. if you know the number of iteration — **for**
+2. if you don’t the number of iteration + the loop termination based on condition — **while**
+3. if you want to execute the loop at least once — **do-while**
+
+
+
+===========
+
+
+# Jumping statements
+
+1. break 
+2. continue
+
+
+===========
+
+
+# Assignments
+
+1. Reverse a number
+input 1234
+output  4321
+
+2. Count Number of Digits in a Number
+input: 423424
+output: 6
+
+3. Palindrome number
+input 121 
+after reversing 121
+
+4. Count Number of even and odd digits in a number
+input 23456
+output 3 even, 2 odd
+
