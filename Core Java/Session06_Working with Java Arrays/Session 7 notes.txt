@@ -1,0 +1,13 @@
+# Arrays
+
+1. Search an element in an array (linear search)
+2. Find # of repetitions
+3. Sorting (using built-in function)
+4. Print the array in reverse order
+
+
+# Assignment
+
+1. Sorting Element using for loop
+2. finding missing in number in array
+3. find largest & lowest number in array
