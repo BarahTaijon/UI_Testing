@@ -1,0 +1,36 @@
+
+String methods
+
+1. length()
+- return the length of a string (number of characters)
+
+2. concat()
+- joining strings
+
+3. trim()
+- remove spaces right and left side
+- not applying/affect on the string it self, *but it return a string trimmed*
+
+4. charAt()
+- returns a character from a string based on index
+
+5. contiains()
+- if a string is a part of another string
+
+6. equals() , equalsIgnoreCase()
+- compare strings
+
+7. replace()
+- replace single/multiple (sequence) of characters in a string
+- first parameter  = the origin parameter , the second parameter = the new one
+
+8. substring()
+- extract substring from the main string
+- first parameter the start index and the second one the length token
+
+9. toUpperCase() , toLowerCase()
+return a string converted to upper/lower case 
+
+10. split()
+- split the string into multiple parts based on delimiter
+- * % ^ & ( ) → can’t use as a delimiter
